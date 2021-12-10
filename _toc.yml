@@ -1,6 +1,8 @@
 # Table of content
 # Learn more at https://jupyterbook.org/customize/toc.html
 #
+format: jb-book
+root: index
 - file: README
 - file: Mechanical-Vibrations-ME_3220/README
   sections:
